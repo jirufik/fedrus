@@ -1,0 +1,40 @@
+{
+  "name": "fedrus",
+  "version": "1.0.0",
+  "description": "fedrus",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "jrf",
+    "debtor",
+    "fedrus"
+  ],
+  "author": {
+    "name": "jirufik",
+    "url": "https://github.com/jirufik"
+  },
+  "maintainers": [
+    {
+      "name": "jirufik",
+      "url": "https://github.com/jirufik"
+    }
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "navit": "^3.1.0",
+    "electron": "^7.0.0",
+    "node-horseman": "^3.3.0",
+    "phantomjs-prebuilt": "^2.1.16",
+    "nightmare": "^3.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jirufik/fedrus"
+  }
+}
