@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "navit": "^3.1.0",
-    "electron": "^7.0.0",
+    "electron": "^18.3.7",
     "node-horseman": "^3.3.0",
     "phantomjs-prebuilt": "^2.1.16",
     "nightmare": "^3.0.2"
